@@ -1,4 +1,4 @@
-# Context-Free Grammar
+# Language Modelling
 
 ### Prerequisites
 
@@ -10,7 +10,7 @@ Python 3.6+
 
 ### Here is what you're looking for!
 
-* [nlp-cfg.ipynb]()
+* [nlp-lm.ipynb](https://github.com/naufalhilmiaji/nlp-lm/blob/master/nlp-lm.ipynb)
 
 
 ### Author
